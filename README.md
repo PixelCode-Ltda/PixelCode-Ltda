@@ -1,6 +1,6 @@
-#<div align="center">
+<div align="center">
 
-# 🏢 Pixel Code Ltda
+# 📌 Pixel Code Ltda
 
 ## 💼 Empresa de Desenvolvimento & Soluções Digitais
 
@@ -19,12 +19,12 @@
 
 ## 🛠 O que fazemos
 
-- Desenvolvimento front-end e back-end  
-- Criação de ferramentas utilitárias  
-- Modelos e templates para o GitHub  
-- Interfaces modernas (UI/UX)  
-- Automação e scripts  
-- Documentação técnica e educacional  
+- 💻 Desenvolvimento front-end e back-end  
+- 🧩 Criação de ferramentas utilitárias  
+- 🗂️ Modelos e templates para o GitHub  
+- 🎨 Interfaces modernas (UI/UX)  
+- ⚙️ Automação e scripts  
+- 📚 Documentação técnica e educacional  
 
 ---
 
