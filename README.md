@@ -3,7 +3,7 @@
 # 🏢 Pixel Code Ltda
 
 ## 💻 Empresa de Desenvolvimento
-& Soluções Digitais
+##   & Soluções Digitais
 
 👋🏻 A **Pixel Code Ltda** é uma empresa especializada em criar soluções modernas, inteligentes e eficientes para o universo da tecnologia.  
 🚀 Atuamos com desenvolvimento de software, automações, interfaces interativas e ferramentas que otimizam o trabalho de desenvolvedores e equipes.
