@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📌 Pixel Code Ltda
+# 🏢 Pixel Code Ltda
 
 ## 💼 Empresa de Desenvolvimento & Soluções Digitais
 
@@ -30,7 +30,13 @@
 
 ## ⚙️ Linguagens e Tecnologias
 
-JavaScript • Python • HTML • CSS • Git • GitHub Actions • Shell Script
+• JavaScript
+• Python
+• HTML
+• CSS
+• Git
+• GitHub Actions
+• Shell Script
 
 ---
 
