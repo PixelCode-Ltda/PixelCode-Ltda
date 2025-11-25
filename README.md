@@ -1,6 +1,6 @@
 #<div align="center">
 
-# 📌 Pixel Code Ltda
+# 🏢 Pixel Code Ltda
 
 ## 💼 Empresa de Desenvolvimento & Soluções Digitais
 
