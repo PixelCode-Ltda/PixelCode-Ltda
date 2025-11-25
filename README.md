@@ -28,7 +28,7 @@
 
 ---
 
-## 🔧 Tecnologias
+## ⚙️ Linguagens e Tecnologias
 
 JavaScript • Python • HTML • CSS • Git • GitHub Actions • Shell Script
 
