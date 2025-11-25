@@ -28,7 +28,13 @@
 
 ## 🔧 Tecnologias
 
-JavaScript | Python | HTML | CSS | Git | GitHub Actions | Shell Script
+| JavaScript
+| Python
+| HTML
+| CSS
+| Git
+| GitHub Actions 
+| Shell Script
 
 ---
 
